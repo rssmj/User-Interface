@@ -1,4 +1,4 @@
-/* http://meyerweb.com/eric/tools/css/reset/ 
+/* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
 */
@@ -12,8 +12,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -24,7 +24,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure, 
+article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
@@ -64,3 +64,152 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+
+
+
+h2 {
+	font-size: 19px;
+	font-weight: bold;
+}
+
+p {
+	font-size: 18px;
+}
+
+
+header nav {
+	display: inline-block;
+	margin: 30px;
+}
+
+nav a {
+	margin: 0 35px;
+	font-size: 15px;
+	color: grey;
+	text-decoration: none;
+}
+
+.logo {
+	vertical-align: middle;
+	margin: 0 0 10px 55px;
+}
+
+.iod-section {
+	display: inline-block;
+	text-align: center;
+	margin: 80px 0 110px 170px;
+}
+
+.iod-section h2 {
+	font-size: 80px;
+}
+
+.iod-section a {
+	text-decoration: none;
+	color: black;
+	font-size: 18.5px;
+	border: black solid 1px;
+	padding: 2.5px 42px;
+}
+
+.round-image {
+	margin: 23px 0 50px 120px;
+	vertical-align: bottom;
+}
+
+hr {
+	width: 88%;
+}
+
+.top-section {
+	display: inline-block;
+	margin: 30px 65px 30px 65px;
+}
+
+
+.top-section .content {
+	display: inline-block;
+	width: 48%;
+	margin-right: 15px;
+}
+
+.middle-img {
+	margin: 20px 65px 20px 65px;
+	width: 89%;
+}
+
+.bottom-section {
+	margin: 20px 20px 0 65px;
+}
+
+.bottom-section p {
+	margin-bottom: 30px;
+}
+
+.bottom-section .content {
+	margin-right: 10px;
+	display: inline-block;
+	width: 31%;
+}
+
+footer {
+	display: inline-block;
+	margin: 20px 65px 20px 65px;
+}
+
+.copyright {
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ----- */
